@@ -1,4 +1,4 @@
 # hello-world
 just another repository
 
-Proposed change to see how the pull request looks like.
+Change to see how the pull request looks like.
